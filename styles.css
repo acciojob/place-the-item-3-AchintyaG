@@ -1,8 +1,5 @@
 .holder{
 	display:flex;
 	flex-flow: row wrap;
-	justify-contant:space-evenly;
-}
-.item{
-	padding:2px;
+	justify-content:space-evenly;
 }
