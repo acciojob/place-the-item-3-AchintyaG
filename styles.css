@@ -1,7 +1,7 @@
 .holder{
 	display:flex;
 	flex-flow: row wrap;
-	justify-contant:space-evenly:
+	justify-contant:space-evenly;
 }
 .item{
 	padding:2px;
